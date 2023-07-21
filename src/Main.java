@@ -7,6 +7,7 @@ public class Main {
 
        String name = firstName + secondName;
        System.out.println(name);
+
     }
 }
 
